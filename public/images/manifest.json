@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "hero-cosmos",
+    "file": "/images/hero-cosmos.jpg",
+    "alt": "galaxy",
+    "author": "Shot by Cerqueira",
+    "authorUrl": "https://unsplash.com/@shotbycerqueira",
+    "sourceUrl": "https://unsplash.com/photos/galaxy-0o_GEzyargo",
+    "color": "#0c2626"
+  },
+  {
+    "slug": "hero-aurora",
+    "file": "/images/hero-aurora.jpg",
+    "alt": "northern lights over snow-capped mountian",
+    "author": "Lightscape",
+    "authorUrl": "https://unsplash.com/@lightscape",
+    "sourceUrl": "https://unsplash.com/photos/northern-lights-over-snow-capped-mountian-LtnPejWDSAY",
+    "color": "#0c2640"
+  },
+  {
+    "slug": "hero-earth",
+    "file": "/images/hero-earth.jpg",
+    "alt": "The earth seen from space against blackness.",
+    "author": "NASA",
+    "authorUrl": "https://unsplash.com/@nasa",
+    "sourceUrl": "https://unsplash.com/photos/the-earth-seen-from-space-against-blackness-0R0qdT6goAU",
+    "color": "#737373"
+  },
+  {
+    "slug": "feature-nebula",
+    "file": "/images/feature-nebula.jpg",
+    "alt": "Nebula",
+    "author": "NASA",
+    "authorUrl": "https://unsplash.com/@nasa",
+    "sourceUrl": "https://unsplash.com/photos/nebula--hI5dX2ObAs",
+    "color": "#8c400c"
+  },
+  {
+    "slug": "feature-surface",
+    "file": "/images/feature-surface.jpg",
+    "alt": "a group of mountains covered in sand at night",
+    "author": "Ezi",
+    "authorUrl": "https://unsplash.com/@artezio",
+    "sourceUrl": "https://unsplash.com/photos/a-group-of-mountains-covered-in-sand-at-night-TnudzJxjVCI",
+    "color": "#8c400c"
+  },
+  {
+    "slug": "feature-rings",
+    "file": "/images/feature-rings.jpg",
+    "alt": "Saturn and its rings",
+    "author": "NASA",
+    "authorUrl": "https://unsplash.com/@nasa",
+    "sourceUrl": "https://unsplash.com/photos/saturn-and-its-rings-2W-QWAC0mzI",
+    "color": "#c0a673"
+  },
+  {
+    "slug": "gallery-1",
+    "file": "/images/gallery-1.jpg",
+    "alt": "blue and purple galaxy digital wallpaper",
+    "author": "Jeremy Thomas",
+    "authorUrl": "https://unsplash.com/@jeremythomasphoto",
+    "sourceUrl": "https://unsplash.com/photos/blue-and-purple-galaxy-digital-wallpaper-E0AHdsENmDg",
+    "color": "#0c2659"
+  },
+  {
+    "slug": "gallery-2",
+    "file": "/images/gallery-2.jpg",
+    "alt": "moon",
+    "author": "Nicolas Thomas",
+    "authorUrl": "https://unsplash.com/@nicolasthomas",
+    "sourceUrl": "https://unsplash.com/photos/moon-wKlqqfNTLsI",
+    "color": "#8c8c8c"
+  },
+  {
+    "slug": "gallery-3",
+    "file": "/images/gallery-3.jpg",
+    "alt": "a planet in space",
+    "author": "Javier Miranda",
+    "authorUrl": "https://unsplash.com/@nuvaproductions",
+    "sourceUrl": "https://unsplash.com/photos/a-planet-in-space-AlJ9TQqeCV0",
+    "color": "#0c2626"
+  },
+  {
+    "slug": "gallery-4",
+    "file": "/images/gallery-4.jpg",
+    "alt": "Nebula",
+    "author": "NASA",
+    "authorUrl": "https://unsplash.com/@nasa",
+    "sourceUrl": "https://unsplash.com/photos/nebula--hI5dX2ObAs",
+    "color": "#8c400c"
+  }
+]
