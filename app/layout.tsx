@@ -20,7 +20,7 @@ const SITE = {
   title: "Genesis — Procedural Planet Studio",
   description:
     "Design living worlds in real time. Genesis is a GPU-accelerated procedural planet studio — sculpt terrain, paint atmospheres and render cinematic alien worlds right in your browser.",
-  url: "https://genesis-planets.vercel.app",
+  url: "https://genesis-app-orpin.vercel.app",
 };
 
 export const metadata: Metadata = {

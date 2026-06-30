@@ -6,7 +6,7 @@
 
 Sculpt continents, ignite volcanoes and wrap worlds in living atmospheres — then render them in cinematic 4K, all from your browser. No installs, no plugins, no bake times.
 
-[**Launch the Studio →**](https://genesis-planets.vercel.app/studio) &nbsp;·&nbsp; [Live Demo](https://genesis-planets.vercel.app) &nbsp;·&nbsp; [Report a Bug](https://github.com/shahriar-ahmed-seam/genesis/issues)
+[**Launch the Studio →**](https://genesis-app-orpin.vercel.app/studio) &nbsp;·&nbsp; [Live Demo](https://genesis-app-orpin.vercel.app) &nbsp;·&nbsp; [Report a Bug](https://github.com/shahriar-ahmed-seam/genesis/issues)
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)
