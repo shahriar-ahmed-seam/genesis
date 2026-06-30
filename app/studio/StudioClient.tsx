@@ -9,7 +9,7 @@ import { PLANET_TYPES, PlanetType } from "@/config/planetTypes";
 import ControlPanel from "@/components/studio/ControlPanel";
 import Toolbar from "@/components/studio/Toolbar";
 
-const Scene = dynamic(() => import("@/components/Scene"), {
+const Scene = dynamic(() => import("@/components/planet/Scene"), {
   ssr: false,
   loading: () => (
     <div className="w-full h-full grid place-items-center bg-[#04060d]">

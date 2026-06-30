@@ -91,19 +91,20 @@ npm run dev                     # http://localhost:3000
 genesis/
 ├── app/                  # Next.js App Router
 │   ├── page.tsx          # Cinematic marketing landing page
-│   ├── studio/           # The interactive 3D studio
-│   └── layout.tsx        # Root layout, fonts, SEO metadata
+│   ├── studio/           # The interactive 3D studio (page + client)
+│   ├── layout.tsx        # Root layout, fonts, SEO metadata
+│   └── globals.css       # Design system & Tailwind layer
 ├── components/
+│   ├── planet/           # The 3D scene — Scene, Planet, Atmosphere,
+│   │                     #   CloudLayer, PlanetRings, Trees
 │   ├── site/             # Landing-page sections (Hero, Worlds, Gallery…)
-│   ├── studio/           # Studio UI (ControlPanel, Toolbar, controls)
-│   ├── Scene.tsx         # The R3F canvas + post-processing
-│   ├── Planet.tsx        # Planet assembly (terrain, clouds, rings…)
-│   └── Atmosphere.tsx    # Fresnel atmosphere shell
+│   └── studio/           # Studio UI (ControlPanel, Toolbar, controls)
 ├── shaders/              # GLSL: planet + gas-giant shaders
 ├── hooks/                # usePlanetTerrain (procedural geometry)
 ├── lib/                  # Zustand store + image manifest helpers
 ├── config/               # Planet archetype definitions
-└── scripts/              # Build-time Unsplash image pipeline
+├── scripts/              # Build-time Unsplash image pipeline
+└── docs/                 # Architecture & release notes
 ```
 
 See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for a deeper dive into the rendering pipeline.

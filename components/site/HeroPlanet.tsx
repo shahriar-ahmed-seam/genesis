@@ -9,7 +9,7 @@ import { createNoise3D } from "simplex-noise";
 import * as THREE from "three";
 import { vertexShader, fragmentShader } from "@/shaders/planetShader";
 import { getPlanetConfig } from "@/config/planetTypes";
-import Atmosphere from "@/components/Atmosphere";
+import Atmosphere from "@/components/planet/Atmosphere";
 
 /**
  * A self-contained, non-interactive showcase planet for the marketing hero.
